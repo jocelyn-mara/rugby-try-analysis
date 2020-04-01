@@ -1,9 +1,7 @@
 ---
 title: "Exploring rugby data"
 author: "Jocelyn Mara"
-output: 
-  prettydoc::html_pretty:
-    theme: cayman
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -87,7 +85,8 @@ The missing values in this data actually represent 0's. For example, if there we
 We can replace the missing values with 0's using the following:
 
 ```{r}
-# if there are multiple variables that contain missing values, need to state what to replace NAs with for each one
+# if there are multiple variables that contain missing values, 
+# you need to state what to replace NAs with for each one
 
 df <- replace_na(data = df, replace = list(phases = 0, 
                                            offloads = 0, 
@@ -104,3 +103,6 @@ sum(is.na(df))
 
 ## Exploratory visualisations
 
+
+
+## References
