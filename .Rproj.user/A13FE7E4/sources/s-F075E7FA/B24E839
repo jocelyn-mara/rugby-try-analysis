@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585707527584.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B24E839",
+    "lastKnownWriteTime" : 1585709973,
+    "last_content_update" : 1585709973329,
+    "path" : "~/OneDrive/Documents/Work/Teaching/Applied-Data-Analysis-Sport/05_REPRODUCIBLE-DATA-ANALYSIS/04_Git-GitHub/repos/rugby-try-analysis/exploring-rugby-data.Rmd",
+    "project_path" : "exploring-rugby-data.Rmd",
+    "properties" : {
+        "cursorPosition" : "106,0",
+        "last_setup_crc32" : "F075E7FAc7e2e05c",
+        "scrollLine" : "77",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

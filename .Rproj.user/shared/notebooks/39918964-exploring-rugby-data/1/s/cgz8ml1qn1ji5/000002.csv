@@ -1,0 +1,6 @@
+"0","# if there are multiple variables that contain missing values, need to state what to replace NAs with for each one"
+"0",""
+"0","df <- replace_na(data = df, replace = list(phases = 0, "
+"0","                                           offloads = 0, "
+"0","                                           passes = 0, "
+"0","                                           total_passes = 0))"
