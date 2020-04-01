@@ -27,4 +27,4 @@ This data consists of tries that were scored during the 2017 Super Rugby competi
 15. `passes`: the number of passes from gaining possession to the try being scored
 16. `total_passes`: the number of offloads plus passes
 
-This data was collected by a former University of Canberra student, Molly Coughlan, as part of a project that identified playing patterns that led to tries in super rugby^[Coughlan, Mountifield, Sharpe & Mara, 2019. How they scored the tries: applying cluster analysis to identify playing patterns that lead to tries in super rugby. IJPAS.]
+This data was collected as part of a project that identified playing patterns that led to tries in super rugby.
